@@ -1,5 +1,6 @@
 class Solution {
     public boolean uniqueOccurrences(int[] arr) {
+        //hashmap
        HashMap<Integer,Integer>hpp=new HashMap<>();
        HashSet<Integer>hs=new HashSet<>();
        for(int element:arr)
