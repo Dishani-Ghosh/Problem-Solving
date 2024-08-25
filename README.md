@@ -30,6 +30,7 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Dishani-Ghosh/Problem-Solving/tree/master/0075-sort-colors) |
+| [0151-reverse-words-in-a-string](https://github.com/Dishani-Ghosh/Problem-Solving/tree/master/0151-reverse-words-in-a-string) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Dishani-Ghosh/Problem-Solving/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Sorting
 |  |
@@ -42,6 +43,7 @@
 ## String
 |  |
 | ------- |
+| [0151-reverse-words-in-a-string](https://github.com/Dishani-Ghosh/Problem-Solving/tree/master/0151-reverse-words-in-a-string) |
 | [1078-remove-outermost-parentheses](https://github.com/Dishani-Ghosh/Problem-Solving/tree/master/1078-remove-outermost-parentheses) |
 ## Stack
 |  |
