@@ -26,6 +26,7 @@
 | ------- |
 | [0048-rotate-image](https://github.com/Dishani-Ghosh/Problem-Solving/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/Dishani-Ghosh/Problem-Solving/tree/master/0066-plus-one) |
+| [2032-largest-odd-number-in-string](https://github.com/Dishani-Ghosh/Problem-Solving/tree/master/2032-largest-odd-number-in-string) |
 ## Two Pointers
 |  |
 | ------- |
@@ -46,6 +47,7 @@
 | [0014-longest-common-prefix](https://github.com/Dishani-Ghosh/Problem-Solving/tree/master/0014-longest-common-prefix) |
 | [0151-reverse-words-in-a-string](https://github.com/Dishani-Ghosh/Problem-Solving/tree/master/0151-reverse-words-in-a-string) |
 | [1078-remove-outermost-parentheses](https://github.com/Dishani-Ghosh/Problem-Solving/tree/master/1078-remove-outermost-parentheses) |
+| [2032-largest-odd-number-in-string](https://github.com/Dishani-Ghosh/Problem-Solving/tree/master/2032-largest-odd-number-in-string) |
 ## Stack
 |  |
 | ------- |
@@ -54,4 +56,8 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Dishani-Ghosh/Problem-Solving/tree/master/0014-longest-common-prefix) |
+## Greedy
+|  |
+| ------- |
+| [2032-largest-odd-number-in-string](https://github.com/Dishani-Ghosh/Problem-Solving/tree/master/2032-largest-odd-number-in-string) |
 <!---LeetCode Topics End-->
