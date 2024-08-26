@@ -6,6 +6,7 @@
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Dishani-Ghosh/Problem-Solving/tree/master/0048-rotate-image) |
+| [0049-group-anagrams](https://github.com/Dishani-Ghosh/Problem-Solving/tree/master/0049-group-anagrams) |
 | [0066-plus-one](https://github.com/Dishani-Ghosh/Problem-Solving/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/Dishani-Ghosh/Problem-Solving/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Dishani-Ghosh/Problem-Solving/tree/master/0075-sort-colors) |
@@ -14,6 +15,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/Dishani-Ghosh/Problem-Solving/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/Dishani-Ghosh/Problem-Solving/tree/master/0073-set-matrix-zeroes) |
 | [0205-isomorphic-strings](https://github.com/Dishani-Ghosh/Problem-Solving/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Dishani-Ghosh/Problem-Solving/tree/master/0242-valid-anagram) |
@@ -39,6 +41,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/Dishani-Ghosh/Problem-Solving/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/Dishani-Ghosh/Problem-Solving/tree/master/0075-sort-colors) |
 | [0242-valid-anagram](https://github.com/Dishani-Ghosh/Problem-Solving/tree/master/0242-valid-anagram) |
 ## Simulation
@@ -49,6 +52,7 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Dishani-Ghosh/Problem-Solving/tree/master/0014-longest-common-prefix) |
+| [0049-group-anagrams](https://github.com/Dishani-Ghosh/Problem-Solving/tree/master/0049-group-anagrams) |
 | [0151-reverse-words-in-a-string](https://github.com/Dishani-Ghosh/Problem-Solving/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/Dishani-Ghosh/Problem-Solving/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Dishani-Ghosh/Problem-Solving/tree/master/0242-valid-anagram) |
