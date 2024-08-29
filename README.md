@@ -58,11 +58,13 @@
 | [0242-valid-anagram](https://github.com/Dishani-Ghosh/Problem-Solving/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/Dishani-Ghosh/Problem-Solving/tree/master/0290-word-pattern) |
 | [1078-remove-outermost-parentheses](https://github.com/Dishani-Ghosh/Problem-Solving/tree/master/1078-remove-outermost-parentheses) |
+| [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Dishani-Ghosh/Problem-Solving/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [2032-largest-odd-number-in-string](https://github.com/Dishani-Ghosh/Problem-Solving/tree/master/2032-largest-odd-number-in-string) |
 ## Stack
 |  |
 | ------- |
 | [1078-remove-outermost-parentheses](https://github.com/Dishani-Ghosh/Problem-Solving/tree/master/1078-remove-outermost-parentheses) |
+| [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Dishani-Ghosh/Problem-Solving/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 ## Trie
 |  |
 | ------- |
