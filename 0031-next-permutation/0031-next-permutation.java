@@ -12,7 +12,7 @@ class Solution {
        } 
        if(idx==-1)
        {
-        reverse(nums,0,n);
+        reverse(nums,0,n-1);
        }
        else{
         for(int i=n-1;i>idx;i--)
