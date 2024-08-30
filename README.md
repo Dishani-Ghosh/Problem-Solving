@@ -11,6 +11,7 @@
 | [0066-plus-one](https://github.com/Dishani-Ghosh/Problem-Solving/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/Dishani-Ghosh/Problem-Solving/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Dishani-Ghosh/Problem-Solving/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/Dishani-Ghosh/Problem-Solving/tree/master/0078-subsets) |
 | [1319-unique-number-of-occurrences](https://github.com/Dishani-Ghosh/Problem-Solving/tree/master/1319-unique-number-of-occurrences) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Dishani-Ghosh/Problem-Solving/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Hash Table
@@ -75,4 +76,12 @@
 |  |
 | ------- |
 | [2032-largest-odd-number-in-string](https://github.com/Dishani-Ghosh/Problem-Solving/tree/master/2032-largest-odd-number-in-string) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/Dishani-Ghosh/Problem-Solving/tree/master/0078-subsets) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0078-subsets](https://github.com/Dishani-Ghosh/Problem-Solving/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
