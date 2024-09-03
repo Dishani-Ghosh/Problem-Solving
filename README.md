@@ -85,6 +85,7 @@
 |  |
 | ------- |
 | [0078-subsets](https://github.com/Dishani-Ghosh/Problem-Solving/tree/master/0078-subsets) |
+| [0191-number-of-1-bits](https://github.com/Dishani-Ghosh/Problem-Solving/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/Dishani-Ghosh/Problem-Solving/tree/master/0231-power-of-two) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/Dishani-Ghosh/Problem-Solving/tree/master/2323-minimum-bit-flips-to-convert-number) |
 ## Recursion
@@ -95,4 +96,8 @@
 |  |
 | ------- |
 | [0237-delete-node-in-a-linked-list](https://github.com/Dishani-Ghosh/Problem-Solving/tree/master/0237-delete-node-in-a-linked-list) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0191-number-of-1-bits](https://github.com/Dishani-Ghosh/Problem-Solving/tree/master/0191-number-of-1-bits) |
 <!---LeetCode Topics End-->
