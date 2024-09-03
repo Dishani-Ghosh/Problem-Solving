@@ -91,4 +91,8 @@
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/Dishani-Ghosh/Problem-Solving/tree/master/0231-power-of-two) |
+## Linked List
+|  |
+| ------- |
+| [0237-delete-node-in-a-linked-list](https://github.com/Dishani-Ghosh/Problem-Solving/tree/master/0237-delete-node-in-a-linked-list) |
 <!---LeetCode Topics End-->
