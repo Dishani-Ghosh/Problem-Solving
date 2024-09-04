@@ -12,6 +12,7 @@
 | [0073-set-matrix-zeroes](https://github.com/Dishani-Ghosh/Problem-Solving/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Dishani-Ghosh/Problem-Solving/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/Dishani-Ghosh/Problem-Solving/tree/master/0078-subsets) |
+| [0906-walking-robot-simulation](https://github.com/Dishani-Ghosh/Problem-Solving/tree/master/0906-walking-robot-simulation) |
 | [1319-unique-number-of-occurrences](https://github.com/Dishani-Ghosh/Problem-Solving/tree/master/1319-unique-number-of-occurrences) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Dishani-Ghosh/Problem-Solving/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Hash Table
@@ -22,6 +23,7 @@
 | [0205-isomorphic-strings](https://github.com/Dishani-Ghosh/Problem-Solving/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Dishani-Ghosh/Problem-Solving/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/Dishani-Ghosh/Problem-Solving/tree/master/0290-word-pattern) |
+| [0906-walking-robot-simulation](https://github.com/Dishani-Ghosh/Problem-Solving/tree/master/0906-walking-robot-simulation) |
 | [1319-unique-number-of-occurrences](https://github.com/Dishani-Ghosh/Problem-Solving/tree/master/1319-unique-number-of-occurrences) |
 ## Matrix
 |  |
@@ -51,6 +53,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0906-walking-robot-simulation](https://github.com/Dishani-Ghosh/Problem-Solving/tree/master/0906-walking-robot-simulation) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/Dishani-Ghosh/Problem-Solving/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Dishani-Ghosh/Problem-Solving/tree/master/2271-rearrange-array-elements-by-sign) |
 ## String
