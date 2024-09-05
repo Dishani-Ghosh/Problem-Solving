@@ -14,6 +14,7 @@
 | [0078-subsets](https://github.com/Dishani-Ghosh/Problem-Solving/tree/master/0078-subsets) |
 | [0906-walking-robot-simulation](https://github.com/Dishani-Ghosh/Problem-Solving/tree/master/0906-walking-robot-simulation) |
 | [1319-unique-number-of-occurrences](https://github.com/Dishani-Ghosh/Problem-Solving/tree/master/1319-unique-number-of-occurrences) |
+| [1878-check-if-array-is-sorted-and-rotated](https://github.com/Dishani-Ghosh/Problem-Solving/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Dishani-Ghosh/Problem-Solving/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Hash Table
 |  |
