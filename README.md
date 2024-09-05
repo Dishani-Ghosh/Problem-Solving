@@ -5,6 +5,7 @@
 ## Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Dishani-Ghosh/Problem-Solving/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/Dishani-Ghosh/Problem-Solving/tree/master/0031-next-permutation) |
 | [0048-rotate-image](https://github.com/Dishani-Ghosh/Problem-Solving/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/Dishani-Ghosh/Problem-Solving/tree/master/0049-group-anagrams) |
@@ -41,6 +42,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Dishani-Ghosh/Problem-Solving/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/Dishani-Ghosh/Problem-Solving/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/Dishani-Ghosh/Problem-Solving/tree/master/0075-sort-colors) |
 | [0151-reverse-words-in-a-string](https://github.com/Dishani-Ghosh/Problem-Solving/tree/master/0151-reverse-words-in-a-string) |
