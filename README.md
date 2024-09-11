@@ -56,6 +56,7 @@
 | [0234-palindrome-linked-list](https://github.com/Dishani-Ghosh/Problem-Solving/tree/master/0234-palindrome-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/Dishani-Ghosh/Problem-Solving/tree/master/0908-middle-of-the-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Dishani-Ghosh/Problem-Solving/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
+| [2236-maximum-twin-sum-of-a-linked-list](https://github.com/Dishani-Ghosh/Problem-Solving/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Dishani-Ghosh/Problem-Solving/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Sorting
 |  |
@@ -90,6 +91,7 @@
 | [0234-palindrome-linked-list](https://github.com/Dishani-Ghosh/Problem-Solving/tree/master/0234-palindrome-linked-list) |
 | [1078-remove-outermost-parentheses](https://github.com/Dishani-Ghosh/Problem-Solving/tree/master/1078-remove-outermost-parentheses) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Dishani-Ghosh/Problem-Solving/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
+| [2236-maximum-twin-sum-of-a-linked-list](https://github.com/Dishani-Ghosh/Problem-Solving/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 ## Trie
 |  |
 | ------- |
@@ -131,6 +133,7 @@
 | [0725-split-linked-list-in-parts](https://github.com/Dishani-Ghosh/Problem-Solving/tree/master/0725-split-linked-list-in-parts) |
 | [0908-middle-of-the-linked-list](https://github.com/Dishani-Ghosh/Problem-Solving/tree/master/0908-middle-of-the-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Dishani-Ghosh/Problem-Solving/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
+| [2236-maximum-twin-sum-of-a-linked-list](https://github.com/Dishani-Ghosh/Problem-Solving/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 ## Divide and Conquer
 |  |
 | ------- |
