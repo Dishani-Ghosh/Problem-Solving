@@ -14,6 +14,7 @@
 | [0075-sort-colors](https://github.com/Dishani-Ghosh/Problem-Solving/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/Dishani-Ghosh/Problem-Solving/tree/master/0078-subsets) |
 | [0906-walking-robot-simulation](https://github.com/Dishani-Ghosh/Problem-Solving/tree/master/0906-walking-robot-simulation) |
+| [1046-max-consecutive-ones-iii](https://github.com/Dishani-Ghosh/Problem-Solving/tree/master/1046-max-consecutive-ones-iii) |
 | [1319-unique-number-of-occurrences](https://github.com/Dishani-Ghosh/Problem-Solving/tree/master/1319-unique-number-of-occurrences) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Dishani-Ghosh/Problem-Solving/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Dishani-Ghosh/Problem-Solving/tree/master/1878-check-if-array-is-sorted-and-rotated) |
@@ -153,4 +154,16 @@
 |  |
 | ------- |
 | [0383-ransom-note](https://github.com/Dishani-Ghosh/Problem-Solving/tree/master/0383-ransom-note) |
+## Binary Search
+|  |
+| ------- |
+| [1046-max-consecutive-ones-iii](https://github.com/Dishani-Ghosh/Problem-Solving/tree/master/1046-max-consecutive-ones-iii) |
+## Sliding Window
+|  |
+| ------- |
+| [1046-max-consecutive-ones-iii](https://github.com/Dishani-Ghosh/Problem-Solving/tree/master/1046-max-consecutive-ones-iii) |
+## Prefix Sum
+|  |
+| ------- |
+| [1046-max-consecutive-ones-iii](https://github.com/Dishani-Ghosh/Problem-Solving/tree/master/1046-max-consecutive-ones-iii) |
 <!---LeetCode Topics End-->
