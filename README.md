@@ -5,6 +5,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Dishani-Ghosh/Problem-Solving/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Dishani-Ghosh/Problem-Solving/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/Dishani-Ghosh/Problem-Solving/tree/master/0031-next-permutation) |
 | [0048-rotate-image](https://github.com/Dishani-Ghosh/Problem-Solving/tree/master/0048-rotate-image) |
@@ -24,6 +25,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Dishani-Ghosh/Problem-Solving/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/Dishani-Ghosh/Problem-Solving/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/Dishani-Ghosh/Problem-Solving/tree/master/0073-set-matrix-zeroes) |
 | [0141-linked-list-cycle](https://github.com/Dishani-Ghosh/Problem-Solving/tree/master/0141-linked-list-cycle) |
