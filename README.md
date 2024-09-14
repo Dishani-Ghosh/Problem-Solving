@@ -22,6 +22,7 @@
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Dishani-Ghosh/Problem-Solving/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/Dishani-Ghosh/Problem-Solving/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Dishani-Ghosh/Problem-Solving/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2727-number-of-senior-citizens](https://github.com/Dishani-Ghosh/Problem-Solving/tree/master/2727-number-of-senior-citizens) |
 ## Hash Table
 |  |
 | ------- |
@@ -95,6 +96,7 @@
 | [2032-largest-odd-number-in-string](https://github.com/Dishani-Ghosh/Problem-Solving/tree/master/2032-largest-odd-number-in-string) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/Dishani-Ghosh/Problem-Solving/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/Dishani-Ghosh/Problem-Solving/tree/master/2219-maximum-number-of-words-found-in-sentences) |
+| [2727-number-of-senior-citizens](https://github.com/Dishani-Ghosh/Problem-Solving/tree/master/2727-number-of-senior-citizens) |
 ## Stack
 |  |
 | ------- |
