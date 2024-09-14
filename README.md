@@ -23,6 +23,7 @@
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Dishani-Ghosh/Problem-Solving/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/Dishani-Ghosh/Problem-Solving/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Dishani-Ghosh/Problem-Solving/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Dishani-Ghosh/Problem-Solving/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2727-number-of-senior-citizens](https://github.com/Dishani-Ghosh/Problem-Solving/tree/master/2727-number-of-senior-citizens) |
 ## Hash Table
 |  |
@@ -127,6 +128,7 @@
 | [0191-number-of-1-bits](https://github.com/Dishani-Ghosh/Problem-Solving/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/Dishani-Ghosh/Problem-Solving/tree/master/0231-power-of-two) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/Dishani-Ghosh/Problem-Solving/tree/master/2323-minimum-bit-flips-to-convert-number) |
+| [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Dishani-Ghosh/Problem-Solving/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 ## Recursion
 |  |
 | ------- |
@@ -185,4 +187,8 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Dishani-Ghosh/Problem-Solving/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Brainteaser
+|  |
+| ------- |
+| [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Dishani-Ghosh/Problem-Solving/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 <!---LeetCode Topics End-->
