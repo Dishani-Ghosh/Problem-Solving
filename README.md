@@ -40,6 +40,7 @@
 | [0525-contiguous-array](https://github.com/Dishani-Ghosh/Problem-Solving/tree/master/0525-contiguous-array) |
 | [0906-walking-robot-simulation](https://github.com/Dishani-Ghosh/Problem-Solving/tree/master/0906-walking-robot-simulation) |
 | [1319-unique-number-of-occurrences](https://github.com/Dishani-Ghosh/Problem-Solving/tree/master/1319-unique-number-of-occurrences) |
+| [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Dishani-Ghosh/Problem-Solving/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 ## Matrix
 |  |
 | ------- |
@@ -95,6 +96,7 @@
 | [0383-ransom-note](https://github.com/Dishani-Ghosh/Problem-Solving/tree/master/0383-ransom-note) |
 | [1078-remove-outermost-parentheses](https://github.com/Dishani-Ghosh/Problem-Solving/tree/master/1078-remove-outermost-parentheses) |
 | [1205-defanging-an-ip-address](https://github.com/Dishani-Ghosh/Problem-Solving/tree/master/1205-defanging-an-ip-address) |
+| [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Dishani-Ghosh/Problem-Solving/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Dishani-Ghosh/Problem-Solving/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Dishani-Ghosh/Problem-Solving/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [2032-largest-odd-number-in-string](https://github.com/Dishani-Ghosh/Problem-Solving/tree/master/2032-largest-odd-number-in-string) |
@@ -127,6 +129,7 @@
 | [0190-reverse-bits](https://github.com/Dishani-Ghosh/Problem-Solving/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/Dishani-Ghosh/Problem-Solving/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/Dishani-Ghosh/Problem-Solving/tree/master/0231-power-of-two) |
+| [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Dishani-Ghosh/Problem-Solving/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/Dishani-Ghosh/Problem-Solving/tree/master/2323-minimum-bit-flips-to-convert-number) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Dishani-Ghosh/Problem-Solving/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 ## Recursion
@@ -182,6 +185,7 @@
 | ------- |
 | [0525-contiguous-array](https://github.com/Dishani-Ghosh/Problem-Solving/tree/master/0525-contiguous-array) |
 | [1046-max-consecutive-ones-iii](https://github.com/Dishani-Ghosh/Problem-Solving/tree/master/1046-max-consecutive-ones-iii) |
+| [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Dishani-Ghosh/Problem-Solving/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Dishani-Ghosh/Problem-Solving/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 ## String Matching
 |  |
