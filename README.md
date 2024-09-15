@@ -52,6 +52,7 @@
 | [0048-rotate-image](https://github.com/Dishani-Ghosh/Problem-Solving/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/Dishani-Ghosh/Problem-Solving/tree/master/0066-plus-one) |
 | [0231-power-of-two](https://github.com/Dishani-Ghosh/Problem-Solving/tree/master/0231-power-of-two) |
+| [0507-perfect-number](https://github.com/Dishani-Ghosh/Problem-Solving/tree/master/0507-perfect-number) |
 | [1013-fibonacci-number](https://github.com/Dishani-Ghosh/Problem-Solving/tree/master/1013-fibonacci-number) |
 | [2032-largest-odd-number-in-string](https://github.com/Dishani-Ghosh/Problem-Solving/tree/master/2032-largest-odd-number-in-string) |
 ## Two Pointers
