@@ -15,6 +15,7 @@
 | [0075-sort-colors](https://github.com/Dishani-Ghosh/Problem-Solving/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/Dishani-Ghosh/Problem-Solving/tree/master/0078-subsets) |
 | [0525-contiguous-array](https://github.com/Dishani-Ghosh/Problem-Solving/tree/master/0525-contiguous-array) |
+| [0539-minimum-time-difference](https://github.com/Dishani-Ghosh/Problem-Solving/tree/master/0539-minimum-time-difference) |
 | [0906-walking-robot-simulation](https://github.com/Dishani-Ghosh/Problem-Solving/tree/master/0906-walking-robot-simulation) |
 | [1046-max-consecutive-ones-iii](https://github.com/Dishani-Ghosh/Problem-Solving/tree/master/1046-max-consecutive-ones-iii) |
 | [1319-unique-number-of-occurrences](https://github.com/Dishani-Ghosh/Problem-Solving/tree/master/1319-unique-number-of-occurrences) |
@@ -54,6 +55,7 @@
 | [0066-plus-one](https://github.com/Dishani-Ghosh/Problem-Solving/tree/master/0066-plus-one) |
 | [0231-power-of-two](https://github.com/Dishani-Ghosh/Problem-Solving/tree/master/0231-power-of-two) |
 | [0507-perfect-number](https://github.com/Dishani-Ghosh/Problem-Solving/tree/master/0507-perfect-number) |
+| [0539-minimum-time-difference](https://github.com/Dishani-Ghosh/Problem-Solving/tree/master/0539-minimum-time-difference) |
 | [1013-fibonacci-number](https://github.com/Dishani-Ghosh/Problem-Solving/tree/master/1013-fibonacci-number) |
 | [2032-largest-odd-number-in-string](https://github.com/Dishani-Ghosh/Problem-Solving/tree/master/2032-largest-odd-number-in-string) |
 ## Two Pointers
@@ -78,6 +80,7 @@
 | [0049-group-anagrams](https://github.com/Dishani-Ghosh/Problem-Solving/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/Dishani-Ghosh/Problem-Solving/tree/master/0075-sort-colors) |
 | [0242-valid-anagram](https://github.com/Dishani-Ghosh/Problem-Solving/tree/master/0242-valid-anagram) |
+| [0539-minimum-time-difference](https://github.com/Dishani-Ghosh/Problem-Solving/tree/master/0539-minimum-time-difference) |
 ## Simulation
 |  |
 | ------- |
@@ -96,6 +99,7 @@
 | [0242-valid-anagram](https://github.com/Dishani-Ghosh/Problem-Solving/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/Dishani-Ghosh/Problem-Solving/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/Dishani-Ghosh/Problem-Solving/tree/master/0383-ransom-note) |
+| [0539-minimum-time-difference](https://github.com/Dishani-Ghosh/Problem-Solving/tree/master/0539-minimum-time-difference) |
 | [1078-remove-outermost-parentheses](https://github.com/Dishani-Ghosh/Problem-Solving/tree/master/1078-remove-outermost-parentheses) |
 | [1205-defanging-an-ip-address](https://github.com/Dishani-Ghosh/Problem-Solving/tree/master/1205-defanging-an-ip-address) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Dishani-Ghosh/Problem-Solving/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
