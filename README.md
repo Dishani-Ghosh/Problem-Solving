@@ -41,6 +41,7 @@
 | [0383-ransom-note](https://github.com/Dishani-Ghosh/Problem-Solving/tree/master/0383-ransom-note) |
 | [0525-contiguous-array](https://github.com/Dishani-Ghosh/Problem-Solving/tree/master/0525-contiguous-array) |
 | [0906-walking-robot-simulation](https://github.com/Dishani-Ghosh/Problem-Solving/tree/master/0906-walking-robot-simulation) |
+| [0920-uncommon-words-from-two-sentences](https://github.com/Dishani-Ghosh/Problem-Solving/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1319-unique-number-of-occurrences](https://github.com/Dishani-Ghosh/Problem-Solving/tree/master/1319-unique-number-of-occurrences) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Dishani-Ghosh/Problem-Solving/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 ## Matrix
@@ -100,6 +101,7 @@
 | [0290-word-pattern](https://github.com/Dishani-Ghosh/Problem-Solving/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/Dishani-Ghosh/Problem-Solving/tree/master/0383-ransom-note) |
 | [0539-minimum-time-difference](https://github.com/Dishani-Ghosh/Problem-Solving/tree/master/0539-minimum-time-difference) |
+| [0920-uncommon-words-from-two-sentences](https://github.com/Dishani-Ghosh/Problem-Solving/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1078-remove-outermost-parentheses](https://github.com/Dishani-Ghosh/Problem-Solving/tree/master/1078-remove-outermost-parentheses) |
 | [1205-defanging-an-ip-address](https://github.com/Dishani-Ghosh/Problem-Solving/tree/master/1205-defanging-an-ip-address) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Dishani-Ghosh/Problem-Solving/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
@@ -178,6 +180,7 @@
 |  |
 | ------- |
 | [0383-ransom-note](https://github.com/Dishani-Ghosh/Problem-Solving/tree/master/0383-ransom-note) |
+| [0920-uncommon-words-from-two-sentences](https://github.com/Dishani-Ghosh/Problem-Solving/tree/master/0920-uncommon-words-from-two-sentences) |
 ## Binary Search
 |  |
 | ------- |
