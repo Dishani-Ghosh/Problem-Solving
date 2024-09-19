@@ -14,6 +14,7 @@
 | [0073-set-matrix-zeroes](https://github.com/Dishani-Ghosh/Problem-Solving/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Dishani-Ghosh/Problem-Solving/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/Dishani-Ghosh/Problem-Solving/tree/master/0078-subsets) |
+| [0179-largest-number](https://github.com/Dishani-Ghosh/Problem-Solving/tree/master/0179-largest-number) |
 | [0525-contiguous-array](https://github.com/Dishani-Ghosh/Problem-Solving/tree/master/0525-contiguous-array) |
 | [0539-minimum-time-difference](https://github.com/Dishani-Ghosh/Problem-Solving/tree/master/0539-minimum-time-difference) |
 | [0906-walking-robot-simulation](https://github.com/Dishani-Ghosh/Problem-Solving/tree/master/0906-walking-robot-simulation) |
@@ -80,6 +81,7 @@
 | ------- |
 | [0049-group-anagrams](https://github.com/Dishani-Ghosh/Problem-Solving/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/Dishani-Ghosh/Problem-Solving/tree/master/0075-sort-colors) |
+| [0179-largest-number](https://github.com/Dishani-Ghosh/Problem-Solving/tree/master/0179-largest-number) |
 | [0242-valid-anagram](https://github.com/Dishani-Ghosh/Problem-Solving/tree/master/0242-valid-anagram) |
 | [0539-minimum-time-difference](https://github.com/Dishani-Ghosh/Problem-Solving/tree/master/0539-minimum-time-difference) |
 ## Simulation
@@ -96,6 +98,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Dishani-Ghosh/Problem-Solving/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/Dishani-Ghosh/Problem-Solving/tree/master/0049-group-anagrams) |
 | [0151-reverse-words-in-a-string](https://github.com/Dishani-Ghosh/Problem-Solving/tree/master/0151-reverse-words-in-a-string) |
+| [0179-largest-number](https://github.com/Dishani-Ghosh/Problem-Solving/tree/master/0179-largest-number) |
 | [0205-isomorphic-strings](https://github.com/Dishani-Ghosh/Problem-Solving/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Dishani-Ghosh/Problem-Solving/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/Dishani-Ghosh/Problem-Solving/tree/master/0290-word-pattern) |
@@ -126,6 +129,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0179-largest-number](https://github.com/Dishani-Ghosh/Problem-Solving/tree/master/0179-largest-number) |
 | [2032-largest-odd-number-in-string](https://github.com/Dishani-Ghosh/Problem-Solving/tree/master/2032-largest-odd-number-in-string) |
 ## Backtracking
 |  |
