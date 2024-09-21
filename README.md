@@ -127,6 +127,7 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Dishani-Ghosh/Problem-Solving/tree/master/0014-longest-common-prefix) |
+| [0386-lexicographical-numbers](https://github.com/Dishani-Ghosh/Problem-Solving/tree/master/0386-lexicographical-numbers) |
 ## Greedy
 |  |
 | ------- |
@@ -210,4 +211,8 @@
 |  |
 | ------- |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Dishani-Ghosh/Problem-Solving/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+## Depth-First Search
+|  |
+| ------- |
+| [0386-lexicographical-numbers](https://github.com/Dishani-Ghosh/Problem-Solving/tree/master/0386-lexicographical-numbers) |
 <!---LeetCode Topics End-->
