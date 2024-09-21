@@ -55,6 +55,7 @@
 | ------- |
 | [0048-rotate-image](https://github.com/Dishani-Ghosh/Problem-Solving/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/Dishani-Ghosh/Problem-Solving/tree/master/0066-plus-one) |
+| [0171-excel-sheet-column-number](https://github.com/Dishani-Ghosh/Problem-Solving/tree/master/0171-excel-sheet-column-number) |
 | [0231-power-of-two](https://github.com/Dishani-Ghosh/Problem-Solving/tree/master/0231-power-of-two) |
 | [0507-perfect-number](https://github.com/Dishani-Ghosh/Problem-Solving/tree/master/0507-perfect-number) |
 | [0539-minimum-time-difference](https://github.com/Dishani-Ghosh/Problem-Solving/tree/master/0539-minimum-time-difference) |
@@ -99,6 +100,7 @@
 | [0049-group-anagrams](https://github.com/Dishani-Ghosh/Problem-Solving/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/Dishani-Ghosh/Problem-Solving/tree/master/0058-length-of-last-word) |
 | [0151-reverse-words-in-a-string](https://github.com/Dishani-Ghosh/Problem-Solving/tree/master/0151-reverse-words-in-a-string) |
+| [0171-excel-sheet-column-number](https://github.com/Dishani-Ghosh/Problem-Solving/tree/master/0171-excel-sheet-column-number) |
 | [0179-largest-number](https://github.com/Dishani-Ghosh/Problem-Solving/tree/master/0179-largest-number) |
 | [0205-isomorphic-strings](https://github.com/Dishani-Ghosh/Problem-Solving/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Dishani-Ghosh/Problem-Solving/tree/master/0242-valid-anagram) |
