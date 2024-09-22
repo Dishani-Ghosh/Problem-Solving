@@ -14,6 +14,7 @@
 | [0073-set-matrix-zeroes](https://github.com/Dishani-Ghosh/Problem-Solving/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Dishani-Ghosh/Problem-Solving/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/Dishani-Ghosh/Problem-Solving/tree/master/0078-subsets) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Dishani-Ghosh/Problem-Solving/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0179-largest-number](https://github.com/Dishani-Ghosh/Problem-Solving/tree/master/0179-largest-number) |
 | [0525-contiguous-array](https://github.com/Dishani-Ghosh/Problem-Solving/tree/master/0525-contiguous-array) |
 | [0539-minimum-time-difference](https://github.com/Dishani-Ghosh/Problem-Solving/tree/master/0539-minimum-time-difference) |
@@ -179,6 +180,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Dishani-Ghosh/Problem-Solving/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [1013-fibonacci-number](https://github.com/Dishani-Ghosh/Problem-Solving/tree/master/1013-fibonacci-number) |
 ## Memoization
 |  |
