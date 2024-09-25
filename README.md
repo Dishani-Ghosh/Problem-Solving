@@ -59,6 +59,7 @@
 | [0048-rotate-image](https://github.com/Dishani-Ghosh/Problem-Solving/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/Dishani-Ghosh/Problem-Solving/tree/master/0066-plus-one) |
 | [0171-excel-sheet-column-number](https://github.com/Dishani-Ghosh/Problem-Solving/tree/master/0171-excel-sheet-column-number) |
+| [0172-factorial-trailing-zeroes](https://github.com/Dishani-Ghosh/Problem-Solving/tree/master/0172-factorial-trailing-zeroes) |
 | [0231-power-of-two](https://github.com/Dishani-Ghosh/Problem-Solving/tree/master/0231-power-of-two) |
 | [0507-perfect-number](https://github.com/Dishani-Ghosh/Problem-Solving/tree/master/0507-perfect-number) |
 | [0539-minimum-time-difference](https://github.com/Dishani-Ghosh/Problem-Solving/tree/master/0539-minimum-time-difference) |
