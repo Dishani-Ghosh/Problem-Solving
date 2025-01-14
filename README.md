@@ -29,6 +29,7 @@
 | [2271-rearrange-array-elements-by-sign](https://github.com/Dishani-Ghosh/Problem-Solving/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Dishani-Ghosh/Problem-Solving/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2727-number-of-senior-citizens](https://github.com/Dishani-Ghosh/Problem-Solving/tree/master/2727-number-of-senior-citizens) |
+| [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Dishani-Ghosh/Problem-Solving/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Dishani-Ghosh/Problem-Solving/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 ## Hash Table
 |  |
@@ -47,6 +48,7 @@
 | [0920-uncommon-words-from-two-sentences](https://github.com/Dishani-Ghosh/Problem-Solving/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1319-unique-number-of-occurrences](https://github.com/Dishani-Ghosh/Problem-Solving/tree/master/1319-unique-number-of-occurrences) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Dishani-Ghosh/Problem-Solving/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
+| [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Dishani-Ghosh/Problem-Solving/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Dishani-Ghosh/Problem-Solving/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 ## Matrix
 |  |
@@ -158,6 +160,7 @@
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Dishani-Ghosh/Problem-Solving/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/Dishani-Ghosh/Problem-Solving/tree/master/2323-minimum-bit-flips-to-convert-number) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Dishani-Ghosh/Problem-Solving/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+| [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Dishani-Ghosh/Problem-Solving/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 ## Recursion
 |  |
 | ------- |
