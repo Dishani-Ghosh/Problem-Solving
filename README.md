@@ -146,6 +146,7 @@
 | ------- |
 | [0179-largest-number](https://github.com/Dishani-Ghosh/Problem-Solving/tree/master/0179-largest-number) |
 | [2032-largest-odd-number-in-string](https://github.com/Dishani-Ghosh/Problem-Solving/tree/master/2032-largest-odd-number-in-string) |
+| [2509-minimize-xor](https://github.com/Dishani-Ghosh/Problem-Solving/tree/master/2509-minimize-xor) |
 ## Backtracking
 |  |
 | ------- |
@@ -160,6 +161,7 @@
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Dishani-Ghosh/Problem-Solving/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/Dishani-Ghosh/Problem-Solving/tree/master/2323-minimum-bit-flips-to-convert-number) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Dishani-Ghosh/Problem-Solving/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+| [2509-minimize-xor](https://github.com/Dishani-Ghosh/Problem-Solving/tree/master/2509-minimize-xor) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Dishani-Ghosh/Problem-Solving/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 ## Recursion
 |  |
