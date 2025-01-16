@@ -28,6 +28,7 @@
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/Dishani-Ghosh/Problem-Solving/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Dishani-Ghosh/Problem-Solving/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Dishani-Ghosh/Problem-Solving/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+| [2533-bitwise-xor-of-all-pairings](https://github.com/Dishani-Ghosh/Problem-Solving/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2727-number-of-senior-citizens](https://github.com/Dishani-Ghosh/Problem-Solving/tree/master/2727-number-of-senior-citizens) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Dishani-Ghosh/Problem-Solving/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Dishani-Ghosh/Problem-Solving/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
@@ -162,6 +163,7 @@
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/Dishani-Ghosh/Problem-Solving/tree/master/2323-minimum-bit-flips-to-convert-number) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Dishani-Ghosh/Problem-Solving/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2509-minimize-xor](https://github.com/Dishani-Ghosh/Problem-Solving/tree/master/2509-minimize-xor) |
+| [2533-bitwise-xor-of-all-pairings](https://github.com/Dishani-Ghosh/Problem-Solving/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Dishani-Ghosh/Problem-Solving/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 ## Recursion
 |  |
@@ -230,6 +232,7 @@
 |  |
 | ------- |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Dishani-Ghosh/Problem-Solving/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+| [2533-bitwise-xor-of-all-pairings](https://github.com/Dishani-Ghosh/Problem-Solving/tree/master/2533-bitwise-xor-of-all-pairings) |
 ## Depth-First Search
 |  |
 | ------- |
